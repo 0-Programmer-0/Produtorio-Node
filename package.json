@@ -1,0 +1,14 @@
+{
+  "name": "produtorio-node",
+  "version": "1.0.0",
+  "main": "produtorio.js",
+  "scripts": {
+    "test": "node produtorio.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
